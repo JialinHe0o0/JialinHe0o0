@@ -3,6 +3,8 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JialinHe0o0)
  
 Welcome to my Github page! 
+
+**我有巨物恐惧症，害怕大傻逼**
  
 <img align="right" alt="img" src="https://github.com/JialinHe0o0/plot/blob/main/diversity_plot/%E5%BC%B1%E8%80%85%E6%89%8D%E7%9D%A1%E8%A7%89.jpg" width="50%" height="auto" />
  
@@ -12,9 +14,9 @@ Welcome to my Github page!
 - ✨ Diabetes
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
-- LOL
-- Mihoyo
-- Console Game
+- 😎 LOL
+- 😎 Mihoyo
+- 😎 Console Game
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
