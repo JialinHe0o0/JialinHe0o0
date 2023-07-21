@@ -18,6 +18,7 @@ Welcome to my Github page!
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 </p>
