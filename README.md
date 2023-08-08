@@ -2,14 +2,11 @@
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JialinHe0o0)
 
-[<img width="5%" src="https://github.com/JialinHe0o0/plot/blob/main/ALL/MIA.jpg">](https://www.intermiamicf.com/)
-
 Welcome to my Github page! 
 
 **我有巨物恐惧症，害怕大傻逼**
  
 <img align="right" alt="img" src="https://github.com/JialinHe0o0/plot/blob/main/diversity_plot/%E5%BC%B1%E8%80%85%E6%89%8D%E7%9D%A1%E8%A7%89.jpg" width="50%" height="auto" />
- 
  
 #### 🚀 Things I am currently working on : 
 - ✨ Multi-kingdom & Multi-omics
@@ -19,6 +16,7 @@ Welcome to my Github page!
 - 😎 LOL
 - 😎 Mihoyo
 - 😎 Console Game
+- [<img width="2.5%" src="https://github.com/JialinHe0o0/plot/blob/main/ALL/MIA.jpg">](https://www.intermiamicf.com/) Messi
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
