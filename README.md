@@ -1,7 +1,9 @@
 ### Hi there 👋 This is Jialin He ！✨ 
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JialinHe0o0)
-[](https://www.intermiamicf.com/)
+
+[<img width="5%" src="https://github.com/JialinHe0o0/plot/blob/main/ALL/MIA.jpg">](https://www.intermiamicf.com/)
+
 Welcome to my Github page! 
 
 **我有巨物恐惧症，害怕大傻逼**
