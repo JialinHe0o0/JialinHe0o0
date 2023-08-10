@@ -6,7 +6,7 @@ Welcome to my Github page!
 
 **我有巨物恐惧症，害怕大傻逼**
  
-<img align="right" alt="img" src="https://github.com/JialinHe0o0/plot/blob/main/diversity_plot/%E5%BC%B1%E8%80%85%E6%89%8D%E7%9D%A1%E8%A7%89.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/JialinHe0o0/plot/blob/main/diversity_plot/%E5%BC%B1%E8%80%85%E6%89%8D%E7%9D%A1%E8%A7%89.jpg" width="38%" height="auto" />
  
 #### 🚀 Things I am currently working on : 
 - ✨ Multi-kingdom & Multi-omics
